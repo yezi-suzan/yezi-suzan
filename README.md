@@ -2,10 +2,10 @@
 - 👀 I’m interested in 
       - Java
 - 🌱 I’m currently learning 
--      Python
--      Shell
--      Linux
--      Raspberry Pi
+      - Python
+      - Shell
+      - Linux
+      - Raspberry Pi
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

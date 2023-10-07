@@ -10,8 +10,8 @@
 - 📫 How to reach me ...
 
 Find & clone a repo on local PC:
-`gh repo list`
-`gh repo clone cli/cli`
+      - `gh repo list`
+      - `gh repo clone cli/cli`
 
 <!---
 yezi-suzan/yezi-suzan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

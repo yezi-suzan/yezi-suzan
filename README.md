@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @yezi-suzan
 - 👀 I’m interested in
   - Java
-- 🌱 I’m currently learning 
+  - Python
+- 🌱 I’m currently learning
+  - C
+  - RISC-V
   - Python
   - Shell
   - Linux
